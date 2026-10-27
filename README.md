@@ -7,8 +7,8 @@ Prof. José Romualdo · Checkpoint 3 · 27/10/2026 · Atividade em dupla · Dura
 
 | Nome | RM |
 |---|---|
-| | |
-| | |
+| Gabriel Alves Gomes | RM559780 |
+| Heitor Augusto Pires | RM560899 |
 
 ## Contexto
 
