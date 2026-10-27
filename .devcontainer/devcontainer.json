@@ -1,0 +1,11 @@
+{
+  "name": "CP3 Garantia de Prazo LogiTech",
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "bierner.markdown-mermaid"
+      ]
+    }
+  }
+}
